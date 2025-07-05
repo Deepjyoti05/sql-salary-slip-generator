@@ -24,4 +24,4 @@ This project automates the monthly generation of salary slips for employees usin
 
 ## Author
 
-Created by [Your Name]
+Created by [Deepjyoti Mukhopadhyay]
